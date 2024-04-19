@@ -217,7 +217,7 @@ model-viewer>#ar-prompt>img {
 
 @media screen and (max-width: 480px) {
   .header {
-    background-image: url("/mob_mebel.jpg");
+    background-image: url("./mob.jpg");
     background-repeat: no-repeat;
     background-size: contain;
   }
